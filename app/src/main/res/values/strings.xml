@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Shashank Priyadarshi</string>
+    <string name="yellow_star">Yellow_star</string>
+    <string name="aboutme">
+        Hi, my name is Shashank Priyadarshi "\n" "\n"
+        Android Developer | Open Source Enthusiast | Python | Java | Techie | Guitarist
+        "\n"
+        "\n"
+        Member at amFOSS, Amritapuri
+        "\n"
+        Currently I am pursuing Btech in AIE from Amrita Vishwa Vidyapeetham. I am from Varanasi (Uttar Pradesh). I am presently living at Amritapuri.
+        Seeking to increase knowledge about Artificial Intelligence and machine learning. Also learning about digital manufacturing, elements of computer science.
+        "\n"
+        "\n"
+        Programming always fascinated me. Developing a logic of a program is my first priority.I always used to focus on logic rather than just random thinking.I am Diploma in Computer Management which includes a degree in Hardware, Software and Networking.I also completed my plus 2 having optional as computer science where I learnt Python as a programming language.I am keen learner.
+        "\n"
+        "\n"
+        My hobbies are playing guitar, playing cricket, travelling, photography
+        "\n"
+        "\n"
+        Technical achievements "\n"
+        I completed DCM in class 11 in parallel with my plus 1.It is a two year course which includes basics of Software, Hardware and Networking.
+        "\n"
+        "\n"
+        Non technical achievements
+        "\n"
+        Completed 6 years playing guitar. I also have a certificate from Prayag Sangeet Samiti, Allahabad
+        "\n"
+        "\n"
+        Workshops attended"\n"
+        Machine learning and deep learning workshop in Amrita Vishwa Vidyapeetham"\n"
+        Signal Sensing in Amrita Vishwa Vidyapeetham"\n"
+        Mobile Repairing workshop by OHTC, Varanasi"\n"
+        "\n"
+        "\n"
+        Github user name - robustTechie"\n"
+        Twitter username - robustTechie"\n"
+        Blog  - www.robustTechie.blogspot.com"\n"
+        Website - www.robustTechie.github.io"\n" "\n"
+
+
+    </string>
+    <string name="nick_name">What is your nick name ?</string>
+    <string name="done">Done</string>
+</resources>
